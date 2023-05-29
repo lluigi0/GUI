@@ -10,7 +10,7 @@ Name, Dist. ESP
 
 Character Highlines (Not working)
 
-Aimbot
+Aimbot V1
 
 Fly (Arceus X)
 
