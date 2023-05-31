@@ -1,4 +1,4 @@
-# GUI V3.1
+# GUI V3.2 (Vape UI Lib upd)
 
 in this code:
 
@@ -8,7 +8,7 @@ Hitbox Trasparency
 
 Name, Dist. ESP
 
-Character Highlines (Not working)
+Character Highlines (Now working)
 
 Aimbot V1
 
@@ -42,4 +42,4 @@ Server Rejoin
 
 Server Hop
 
-KeyBoard (for mobile support)
+UI Color Changer (Multicolor Too)
