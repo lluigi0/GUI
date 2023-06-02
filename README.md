@@ -48,7 +48,7 @@
 
 ---
 
-![GUI preview](file:///storage/emulated/0/DCIM/Screenshots/preview.jpg)
+![Preview](https://i.imgur.com/y1RwW4C.jpg)
 
 ---
 
