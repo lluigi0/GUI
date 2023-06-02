@@ -48,4 +48,8 @@
 
 ---
 
+![GUI preview](file:///storage/emulated/0/DCIM/Screenshots/preview.jpg)
+
+---
+
 **Note: Thank you for trying out my GUI! If you encounter any bugs or have any suggestions for improvements, please don't hesitate to reach out to me. Your feedback is greatly appreciated, and I'll do my best to address any issues and make the necessary fixes.**
