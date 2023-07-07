@@ -1,4 +1,4 @@
-# GUI V3.2 (Vape UI Lib)
+# GUI V3.2 (Orion Library)
 
 ---
 
@@ -45,10 +45,6 @@
 - **Server Hop**: Quickly switches servers.
 
 - **UI Color Changer**: Modifies the UI color.
-
----
-# Preview
-![Preview](https://i.imgur.com/y1RwW4C.jpg)
 
 ---
 
